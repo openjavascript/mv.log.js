@@ -1,8 +1,8 @@
 {
-  "name": "mv.js",
-  "main": "mv.js",
-  "version": "0.0.2",
-  "homepage": "https://github.com/openjavascript/mv.js",
+  "name": "mv.log.js",
+  "main": "mv.log.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/openjavascript/mv.log.js",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
   ],
@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "zepto": "~1.1.2"
+    "underscore": "~1.7.0"
   },
   "moduleType": [
     "amd",
@@ -23,13 +23,13 @@
     "node_modules",
     "bower_components"
   ],
-  "_release": "0.0.2",
+  "_release": "0.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.2",
-    "commit": "c5ae696588c2bb7f8d13a94b4e20e65da029605e"
+    "tag": "0.0.1",
+    "commit": "d37c4bc486206d13f2ea8dbbac66b11deb4b8525"
   },
-  "_source": "https://github.com/openjavascript/mv.js.git",
-  "_target": "~0.0.2",
-  "_originalSource": "mv.js"
+  "_source": "https://github.com/openjavascript/mv.log.js.git",
+  "_target": "~0.0.1",
+  "_originalSource": "mv.log.js"
 }
